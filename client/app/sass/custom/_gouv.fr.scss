@@ -1,0 +1,13 @@
+.navbar {
+    background-color: $white !important;
+    a {
+        color: $dark-grey !important;
+    }
+}
+
+.brand{
+    background: no-repeat  url(http://www.gouvernement.fr/sites/all/themes/custom/matignon/img/header/marianne.png);
+    background-size: 82px 55px;
+    padding: 0 0 0 90px !important;
+    margin: 0.2rem !important;
+}
